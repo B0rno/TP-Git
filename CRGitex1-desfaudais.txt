@@ -1,0 +1,11 @@
+TP Git :
+
+Exo 1 :
+Quel commande sert a initialiser un dépot GIT ?:
+1) git init
+2) git add
+3) git commit
+
+Exo 2 :
+1) git init
+2) git add CRGitex1-desfaudais.txt
